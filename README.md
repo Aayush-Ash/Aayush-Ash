@@ -7,9 +7,15 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/Aayush-Ash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=🛡️+Building+Security+First+Solutions;🤖+Integrating+GenAI+with+Web+Apps;💻+Writing+Clean,+Scalable+Code" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Aayush-Ash/Aayush-Ash/main/developer_banner.png" alt="Developer Banner" width="100%" />
+</div>
+
+<h3 align="center">Empowering the web with secure, intelligent applications.</h3>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aayush-Ash/Aayush-Ash/main/code_build_deploy.jpg" alt="Code Build Deploy Banner" width="100%" />
 </div>
 
 ---
