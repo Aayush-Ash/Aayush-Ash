@@ -6,17 +6,13 @@
 
 <br />
 
+<!-- 
+Optional: Add your own custom banner images here!
+Upload them to your repository and replace the URL below:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aayush-Ash/Aayush-Ash/main/developer_banner.png" alt="Developer Banner" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_URL.png" alt="Developer Banner" width="100%" />
 </div>
-
-<h3 align="center">Empowering the web with secure, intelligent applications.</h3>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aayush-Ash/Aayush-Ash/main/code_build_deploy.jpg" alt="Code Build Deploy Banner" width="100%" />
-</div>
+-->
 
 ---
 
