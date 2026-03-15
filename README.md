@@ -6,13 +6,17 @@
 
 <br />
 
-<!-- 
-Optional: Add your own custom banner images here!
-Upload them to your repository and replace the URL below:
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL.png" alt="Developer Banner" width="100%" />
+  <img src="developer_banner.png" alt="Developer Banner" width="100%" />
 </div>
--->
+
+<h3 align="center">Empowering the web with secure, intelligent applications.</h3>
+
+<br />
+
+<div align="center">
+  <img src="code_build_deploy.png" alt="Code Build Deploy Banner" width="100%" />
+</div>
 
 ---
 
